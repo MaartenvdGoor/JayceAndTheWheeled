@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jayce",
+    "faction": "Wheeled Riders",
+    "age": 19,
+    "vehicle": "Ring of Light",
+    "description": "the main character",
+    "images": [
+      "../assets/Placeholder%20IMG/placeholder-male-square.png",
+      ""
+    ],
+    "planet": "Mars"
+  }
+]
